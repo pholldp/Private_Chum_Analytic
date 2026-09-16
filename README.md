@@ -60,8 +60,8 @@ $$\text{Required Units}_i = \left\lceil \text{Required Total Units} \times \text
 No build tools or Node.js required! Simply clone and open `index.html` in any modern web browser:
 
 ```bash
-git clone https://github.com/pholldp/Private-Sale-Projection.git
-cd Private-Sale-Projection
+git clone https://github.com/pholldp/Private_Chum_Analytic.git
+cd Private_Chum_Analytic
 open index.html # On macOS
 # or start a lightweight python server:
 # python3 -m http.server 8080
@@ -71,14 +71,14 @@ open index.html # On macOS
 
 ## 🌐 Deploy to GitHub Pages (1-Click)
 
-1. Push this repository to GitHub: `https://github.com/pholldp/Private-Sale-Projection`
+1. Push this repository to GitHub: `https://github.com/pholldp/Private_Chum_Analytic`
 2. In your GitHub repository:
    - Go to **Settings** $\rightarrow$ **Pages** (in the left sidebar).
    - Under **Build and deployment** $\rightarrow$ **Branch**, select `main` and folder `/ (root)`.
    - Click **Save**.
 3. Your live application will be available at:
    ```
-   https://pholldp.github.io/Private-Sale-Projection/
+   https://pholldp.github.io/Private_Chum_Analytic/
    ```
 
 ---
@@ -86,7 +86,7 @@ open index.html # On macOS
 ## 📁 Repository Structure
 
 ```
-Private-Sale-Projection/
+Private_Chum_Analytic/
 ├── index.html       # Standalone single-page application (UI, Simulator, & Storage)
 ├── README.md        # Documentation and guide
 └── .gitignore       # Git ignore rules
